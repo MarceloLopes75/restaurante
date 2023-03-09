@@ -22,3 +22,5 @@ nivel) VALUES ('$nome', '$email',
 
  header('location: ../../index.php');
  ?>
+
+ <!-- Senac 2023 até 2024 a nova ordem mundial está vencendo--> 
